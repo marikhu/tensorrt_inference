@@ -1,0 +1,2 @@
+0,Bike,Bike,0
+1,Car,Car,1
